@@ -1,0 +1,3 @@
+- [ ] Add websocket support
+- [ ] Test iPhone touch response
+- [ ] Map jump to 'A' button
