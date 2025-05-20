@@ -40,9 +40,9 @@ hologamev = {
             'DOWN': 'S',
             'LEFT': 'A',
             'RIGHT': 'D',
-            'SELECT': 'E',
+            'SELECT': 'escape',
             'START': 'space',
-            'A': 'F',
+            'A': 'space',
             'B': 'space'
         }
     ]
