@@ -1,0 +1,3 @@
+platformer_tm_ver.blend filter=lfs diff=lfs merge=lfs -text
+roboRun_platformer.blend.exe filter=lfs diff=lfs merge=lfs -text
+RoboRun.zip filter=lfs diff=lfs merge=lfs -text
