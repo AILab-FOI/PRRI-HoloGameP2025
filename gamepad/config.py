@@ -17,7 +17,7 @@ abe = {
             'DOWN': 'down',
             'LEFT': 'left',
             'RIGHT': 'right',
-            'SELECT': 'esc',
+            'SELECT': 'c',
             'START': 'enter',
             'A': 'space',
             'B': 'enter'
@@ -40,7 +40,7 @@ hologamev = {
             'DOWN': 'S',
             'LEFT': 'A',
             'RIGHT': 'D',
-            'SELECT': 'escape',
+            'SELECT': 'C',
             'START': 'space',
             'A': 'space',
             'B': 'space'
