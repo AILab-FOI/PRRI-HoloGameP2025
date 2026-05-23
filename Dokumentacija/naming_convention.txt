@@ -1,0 +1,24 @@
+PRRI projekt - Naming Convention
+
+Primjeri
+MODELI:
+- Glavni_lik.fbx
+- Novčić.fbx
+- Cilj.fbx
+
+TEKSTURE:
+- Glavni_lik_albedo.png
+- Glavni_lik_normal_map.png
+- Glavni_lik_metallic.png
+
+AUDIO:
+- Glavni_lik_skok.wav
+- Pokupljanje_novcica.mp3
+
+SKRIPTE:
+- PlayerMovement.cs
+- Kamera.cs
+
+DOKUMENTACIJA:
+- Level_design.pdf
+- Game_mechanics.docx
