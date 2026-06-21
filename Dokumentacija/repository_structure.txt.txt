@@ -1,0 +1,18 @@
+Repository Structure
+
+Cilj:
+Održavati repozitorij preglednim i izbjeći duplikate datoteka.
+
+Struktura:
+- assets/models/ -> 3D modeli i .blend datoteke
+- assets/textures/ -> teksture i slike korištene u igri
+- assets/audio/ -> glazba i zvučni efekti
+- Dokumentacija/ -> gantogram, naming convention i ostala projektna dokumentacija
+- gamepad/ -> web gamepad implementacija, server i pripadne skripte
+
+Pravila:
+- Dokumentacija se sprema samo u folder Dokumentacija
+- .blend i ostali modeli spremaju se u assets/models
+- Teksture idu u assets/textures
+- Audio datoteke idu u assets/audio
+- Ne stvarati duple foldere za istu vrstu sadržaja
